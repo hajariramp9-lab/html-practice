@@ -98,7 +98,7 @@ SPRING BOARD ACADEMY
 
 <tr>
 <td>biology</td>
-<td><a href="#">PDF खोलें</a></td>
+<td><a href="Biology hindi_compressed.pdf">PDF खोलें</a></td>
 </tr>
 
 </table>
