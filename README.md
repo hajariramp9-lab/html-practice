@@ -96,6 +96,11 @@ SPRING BOARD ACADEMY
 <td><a href="#">PDF खोलें</a></td>
 </tr>
 
+<tr>
+<td>राजस्थान इतिहास</td>
+<td><a href="#">PDF खोलें</a></td>
+</tr>
+
 </table>
 
 </div>
