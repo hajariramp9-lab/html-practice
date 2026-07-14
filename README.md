@@ -77,17 +77,17 @@ SPRING BOARD ACADEMY
 </tr>
 
 <tr>
-<td>इतिहास</td>
+<td>प्राचीन भारत का इतिहास</td>
 <td><a href="History Notes.pdf">PDF खोलें</a></td>
 </tr>
 
 <tr>
-<td>भूगोल</td>
+<td>राजस्थान का भूगोल</td>
 <td><a href="#">PDF खोलें</a></td>
 </tr>
 
 <tr>
-<td>कला संस्कृति</td>
+<td>राजस्थान कला संस्कृति</td>
 <td><a href="Rajasthan art and culture.pdf">PDF खोलें</a></td>
 </tr>
 
@@ -97,9 +97,40 @@ SPRING BOARD ACADEMY
 </tr>
 
 <tr>
-<td>biology</td>
+<td>जीव विज्ञान</td>
 <td><a href="Biology hindi_compressed.pdf">PDF खोलें</a></td>
 </tr>
+
+<tr>
+<td>मध्यकालीन भारत का इतिहास</td>
+<td><a href="#">PDF खोलें</a></td>
+</tr>
+
+<tr>
+<td>आधुनिक भारत का इतिहास</td>
+<td><a href="#">PDF खोलें</a></td>
+</tr>
+
+<tr>
+<td>भारत का भूगोल</td>
+<td><a href="#">PDF खोलें</a></td>
+</tr>
+
+<tr>
+<td>भारत का अर्थशास्त्र</td>
+<td><a href="#">PDF खोलें</a></td>
+</tr>
+
+<tr>
+<td>भारत की राजव्यवस्था</td>
+<td><a href="#">PDF खोलें</a></td>
+</tr>
+
+<tr>
+<td>राजस्थान का अर्थशास्त्र</td>
+<td><a href="#">PDF खोलें</a></td>
+</tr>
+
 
 </table>
 
