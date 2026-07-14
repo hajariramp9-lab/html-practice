@@ -88,7 +88,7 @@ SPRING BOARD ACADEMY
 
 <tr>
 <td>कला संस्कृति</td>
-<td><a href="#">PDF खोलें</a></td>
+<td><a href="Rajasthan art and culture.pdf">PDF खोलें</a></td>
 </tr>
 
 <tr>
