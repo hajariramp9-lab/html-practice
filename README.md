@@ -97,7 +97,7 @@ SPRING BOARD ACADEMY
 </tr>
 
 <tr>
-<td>राजस्थान इतिहास</td>
+<td>biology</td>
 <td><a href="#">PDF खोलें</a></td>
 </tr>
 
