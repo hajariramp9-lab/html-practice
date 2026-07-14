@@ -103,7 +103,7 @@ SPRING BOARD ACADEMY
 
 <tr>
 <td>मध्यकालीन भारत का इतिहास</td>
-<td><a href="#">PDF खोलें</a></td>
+<td><a href="Medieval history hindi.pdf">PDF खोलें</a></td>
 </tr>
 
 <tr>
