@@ -93,7 +93,7 @@ SPRING BOARD ACADEMY
 
 <tr>
 <td>राजस्थान इतिहास</td>
-<td><a href="Rajasthan historyh hindi.pdf">PDF खोलें</a></td>
+<td><a href="Rajasthan history hindi.pdf">PDF खोलें</a></td>
 </tr>
 
 <tr>
