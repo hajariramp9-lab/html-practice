@@ -108,7 +108,7 @@ SPRING BOARD ACADEMY
 
 <tr>
 <td>आधुनिक भारत का इतिहास</td>
-<td><a href="#">PDF खोलें</a></td>
+<td><a href="Modern history hindi.pdf">PDF खोलें</a></td>
 </tr>
 
 <tr>
