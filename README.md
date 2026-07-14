@@ -78,7 +78,7 @@ SPRING BOARD ACADEMY
 
 <tr>
 <td>इतिहास</td>
-<td><a href="इतिहास">PDF खोलें</a></td>
+<td><a href="History Notes.pdf">PDF खोलें</a></td>
 </tr>
 
 <tr>
