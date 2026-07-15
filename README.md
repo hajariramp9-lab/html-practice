@@ -83,7 +83,7 @@ SPRING BOARD ACADEMY
 
 <tr>
 <td>राजस्थान का भूगोल</td>
-<td><a href="#">PDF खोलें</a></td>
+<td><a href="https://drive.google.com/file/d/1v2wiMffpustuEwDt5bTxF6PGFcKLB3c-/view?usp=drivesdk">PDF खोलें</a></td>
 </tr>
 
 <tr>
